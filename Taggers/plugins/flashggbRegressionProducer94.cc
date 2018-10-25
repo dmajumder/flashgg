@@ -21,7 +21,7 @@
 #include <string>
 #include <vector>
 
-#include "DNN/TensorFlow/interface/TensorFlow.h"
+#include "PhysicsTools/TensorFlow/interface/TensorFlow.h"
 
 #include "DataFormats/Math/interface/LorentzVector.h"
 #include "TLorentzVector.h"
